@@ -1,7 +1,6 @@
 # JavaUseCase1
 
-# Technology Assessment
-Exercise 1
+# Technology Assessment | EXERCISE 1
 
 - Low Level Design
 - Software Development Practices
@@ -23,17 +22,17 @@ Write a program in java such that given a bill, it finds the net payable amount.
 # What we care about:
 
 # Required Activities
-• Object oriented programming approach, provide a high level UML class diagram of all the key classes in your solution. 
+- Object oriented programming approach, provide a high level UML class diagram of all the key classes in your solution. 
 This can either be on paper or using a CASE tool
-• Code to be generic and simple
-• Leverage today&#39;s best coding practices
-• Clear README.md that explains how the code and the test can be run and how the coverage reports can be generated
+- Code to be generic and simple
+- Leverage today&#39;s best coding practices
+- Clear README.md that explains how the code and the test can be run and how the coverage reports can be generated
 
 # Bonus Activities
-• Create scripts, e.g. Maven, etc. to: o build the project from the command- line
-• run static code analysis such as linting
-• run unit tests and code coverage
-• SonarQube report for the code showing its quality summary Create a GitHub repository, ensure the name is generic and doesn’t have any companyames.
+- Create scripts, e.g. Maven, etc. to: o build the project from the command- line
+- run static code analysis such as linting
+- run unit tests and code coverage
+- SonarQube report for the code showing its quality summary Create a GitHub repository, ensure the name is generic and doesn’t have any companyames.
 Commit your code to the GitHub repository and share the link with us.
 
 # Follow up Discussion
