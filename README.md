@@ -1,7 +1,7 @@
 # JavaUseCase1
 
-Technology Assessment
-- Exercise 1
+## Technology Assessment
+## Exercise 1
 
 • Low Level Design
 • Software Development Practices
