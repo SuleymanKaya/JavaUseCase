@@ -3,9 +3,9 @@
 # Technology Assessment
 Exercise 1
 
-• Low Level Design
-• Software Development Practices
-• Hands-on Programming
+- Low Level Design
+- Software Development Practices
+- Hands-on Programming
 
 # The Store Discounts
 
